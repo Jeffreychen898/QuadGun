@@ -1,0 +1,19 @@
+Info
+
+press space to spawn enemies
+WASD to move
+left click mouse to shoot 4 bullets
+right click mouse to shoot 12 bullets
+Enemy sits on lava will lose hp
+Enemy will lose hp when hit
+Enemy will attempt to go to player
+Enemy can only shoot 1 bullet
+
+I changed the shooting from space to click because I feel like it would be
+easier to shoot.
+
+The player will not lose hp because when he dies, I don't know what to do
+since this is not a game.
+
+When player goes out of bounds, it will appear on the other side of the
+screen.
